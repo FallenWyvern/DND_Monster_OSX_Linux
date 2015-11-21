@@ -1,0 +1,306 @@
+Main
+Main : button1 : Output Localization
+Main : AddSaved : Add Saved
+Main : DeleteTraitButton : Delete
+Main : EditTraitButton : Edit
+Main : ExceptionSourceLabel : Exception Source
+Main : ExceptionTypeLabel : Exception Type
+In-Main : DamageModificationType : Vulnerability
+In-Main : DamageModificationType : Resistance
+In-Main : DamageModificationType : Immunity
+Main : DamageModificationLabel : Damage Modification
+Main : SkillSelectionLabel : Skill Selection
+Main : BonusModifierLabel : Bonus
+Main : SkillHeaderLabel : Skills
+Main : SpeedsHeaderLabel : Speeds
+Main : SensesLabel : Sense/Passive Perception
+Main : LanguageHeaderLabel : Languages
+Main : SensesHeaderLabel : Senses
+Main : SpeedHelperLabel : Click a speed label to customize it.
+Main : ExceptionText : Exception Text
+Main : AddLegendaryButton : Add Legendary
+Main : MonsterName : Monster Name
+Main : CRHelperLabel : Hover for suggested CR values
+Main : NewMonsterButton : New
+Main : ArmorClass : Armor Class
+Main : SkillProfCheckBox : Add Proficiency
+Main : TraitsListHelperLabel : Use the Buttons Below to Modify
+Main : SkillBonusCheckBox : Add Bonus
+In-Main : TypeDropDown : Aberration
+In-Main : TypeDropDown : Beast
+In-Main : TypeDropDown : Celestial
+In-Main : TypeDropDown : Construct
+In-Main : TypeDropDown : Dragon
+In-Main : TypeDropDown : Elemental
+In-Main : TypeDropDown : Fey
+In-Main : TypeDropDown : Fiend
+In-Main : TypeDropDown : Giant
+In-Main : TypeDropDown : Humanoid
+In-Main : TypeDropDown : Monstrosity
+In-Main : TypeDropDown : Ooze
+In-Main : TypeDropDown : Plant
+In-Main : TypeDropDown : Undead
+Main : SkillStatCheckBox : Add Stat
+Main : TypeAndTag : Type / Tag
+Main : Alignment : Alignment
+In-Main : PreviewTemplateSelector : Valloric's Statblock
+In-Main : PreviewTemplateSelector : Reddit
+In-Main : PreviewTemplateSelector : Future
+In-Main : AlignmentDropDown : Lawful Good
+In-Main : AlignmentDropDown : Lawful Neutral
+In-Main : AlignmentDropDown : Lawful Evil
+In-Main : AlignmentDropDown : 
+In-Main : AlignmentDropDown : Neutral Good
+In-Main : AlignmentDropDown : True Neutral
+In-Main : AlignmentDropDown : Neutral Evil
+In-Main : AlignmentDropDown : 
+In-Main : AlignmentDropDown : Chaotic Good
+In-Main : AlignmentDropDown : Chaotic Neutral
+In-Main : AlignmentDropDown : Chaotic Evil
+In-Main : AlignmentDropDown : 
+In-Main : AlignmentDropDown : Unaligned
+Main : LoadButton : Load
+In-Main : LanguageComboBox : Abyssal
+In-Main : LanguageComboBox : Aquan
+In-Main : LanguageComboBox : Auran
+In-Main : LanguageComboBox : Celestial
+In-Main : LanguageComboBox : Common
+In-Main : LanguageComboBox : Deep Speech
+In-Main : LanguageComboBox : Draconic
+In-Main : LanguageComboBox : Druidic
+In-Main : LanguageComboBox : Dwarvish
+In-Main : LanguageComboBox : Elvish
+In-Main : LanguageComboBox : Giant
+In-Main : LanguageComboBox : Gnomish
+In-Main : LanguageComboBox : Goblin
+In-Main : LanguageComboBox : Gnoll
+In-Main : LanguageComboBox : Halfling
+In-Main : LanguageComboBox : Ignan
+In-Main : LanguageComboBox : Infernal
+In-Main : LanguageComboBox : Orc
+In-Main : LanguageComboBox : Primordial
+In-Main : LanguageComboBox : Sylvan
+In-Main : LanguageComboBox : Terran
+In-Main : LanguageComboBox : Undercommon
+In-Main : LanguageComboBox : Worg
+In-Main : LanguageComboBox : White Wolf
+In-Main : LanguageComboBox : Yeti
+Main : SaveButton : Save
+Main : HitPoints : Hit Points
+In-Main : HitDieDropDown : d4
+In-Main : HitDieDropDown : d6
+In-Main : HitDieDropDown : d8
+In-Main : HitDieDropDown : d10
+In-Main : HitDieDropDown : d12
+In-Main : HitDieDropDown : d20
+Main : AddSkillButton : Add Skill
+In-Main : SkillDropDown : Athletics (Str)
+In-Main : SkillDropDown : 
+In-Main : SkillDropDown : Acrobatics (Dex)
+In-Main : SkillDropDown : Sleight of Hand (Dex)
+In-Main : SkillDropDown : Stealth (Dex)
+In-Main : SkillDropDown : 
+In-Main : SkillDropDown : Arcana (Int)
+In-Main : SkillDropDown : History (Int)
+In-Main : SkillDropDown : Investigation (Int)
+In-Main : SkillDropDown : Nature (Int)
+In-Main : SkillDropDown : Religion (Int)
+In-Main : SkillDropDown : 
+In-Main : SkillDropDown : Animal Handling (Wis)
+In-Main : SkillDropDown : Insight (Wis)
+In-Main : SkillDropDown : Medicine (Wis)
+In-Main : SkillDropDown : Perception (Wis)
+In-Main : SkillDropDown : Survival (Wis)
+In-Main : SkillDropDown : 
+In-Main : SkillDropDown : Deception (Cha)
+In-Main : SkillDropDown : Intimidation (Cha)
+In-Main : SkillDropDown : Performance (Cha)
+In-Main : SkillDropDown : Persuasion (Cha)
+Main : AddActionButton : Add Action
+Main : AddAbilityButton : Add Ability
+Main : GenerateHPBonus : Generate HP
+Main : PreviewButton : Preview
+Main : Profiency : Proficiency
+Main : ChallengeRating : Challenge Rating
+Main : Str : STR
+Main : AddLanguageButton : Add
+Main : Dex : DEX
+Main : Distance : Distance
+Main : Con : CON
+Main : Int : INT
+Main : AddSenseButton : Add
+Main : Wis : WIS
+In-Main : SensesDropDown : Passive Perception
+In-Main : SensesDropDown : Blindsight
+In-Main : SensesDropDown : Darkvision
+In-Main : SensesDropDown : Tremorsense
+In-Main : SensesDropDown : Truesight
+Main : Cha : CHA
+Main : AddVulnerabilityButton : Add
+In-Main : DamageConditionDropDown : Acid
+In-Main : DamageConditionDropDown : Bludgeoning
+In-Main : DamageConditionDropDown : Cold
+In-Main : DamageConditionDropDown : Fire
+In-Main : DamageConditionDropDown : Force
+In-Main : DamageConditionDropDown : Lightning
+In-Main : DamageConditionDropDown : Necrotic
+In-Main : DamageConditionDropDown : Piercing
+In-Main : DamageConditionDropDown : Poison
+In-Main : DamageConditionDropDown : Psychic
+In-Main : DamageConditionDropDown : Radiant
+In-Main : DamageConditionDropDown : Slashing
+In-Main : DamageConditionDropDown : Thunder
+In-Main : DamageConditionDropDown : 
+In-Main : DamageConditionDropDown : Blinded
+In-Main : DamageConditionDropDown : Charmed
+In-Main : DamageConditionDropDown : Deafened
+In-Main : DamageConditionDropDown : Encumbered
+In-Main : DamageConditionDropDown : Exhaustion
+In-Main : DamageConditionDropDown : Frightened
+In-Main : DamageConditionDropDown : Grappled
+In-Main : DamageConditionDropDown : Incorporeal
+In-Main : DamageConditionDropDown : Intoxicated
+In-Main : DamageConditionDropDown : Invisible
+In-Main : DamageConditionDropDown : Paralyzed
+In-Main : DamageConditionDropDown : Petrified
+In-Main : DamageConditionDropDown : Poisoned
+In-Main : DamageConditionDropDown : Prone
+In-Main : DamageConditionDropDown : Restrained
+In-Main : DamageConditionDropDown : Stunned
+In-Main : DamageConditionDropDown : Unconcious
+Main : AbilityScores : Ability Scores
+In-Main : SizeDropDown : Tiny
+In-Main : SizeDropDown : Small
+In-Main : SizeDropDown : Medium
+In-Main : SizeDropDown : Large
+In-Main : SizeDropDown : Huge
+In-Main : SizeDropDown : Gargantuan
+Main : ChaSaveBonus : CHA
+Main : SizeLabel : Size
+Main : WisSaveBonus : WIS
+Main : RollHPBonus : Roll HP
+Main : IntSaveBonus : INT
+In-Main : TagDropDown : Aarakocra
+In-Main : TagDropDown : Bullywug
+In-Main : TagDropDown : Demon
+In-Main : TagDropDown : Devil
+In-Main : TagDropDown : Dwarf
+In-Main : TagDropDown : Elf
+In-Main : TagDropDown : Gith
+In-Main : TagDropDown : Gnoll
+In-Main : TagDropDown : Gnome
+In-Main : TagDropDown : Goblinoid
+In-Main : TagDropDown : Grimlock
+In-Main : TagDropDown : Human
+In-Main : TagDropDown : Kenku
+In-Main : TagDropDown : Kobold
+In-Main : TagDropDown : Kuo-toa
+In-Main : TagDropDown : Lizardfolk
+In-Main : TagDropDown : Merfolk
+In-Main : TagDropDown : Orc
+In-Main : TagDropDown : Quaggoth
+In-Main : TagDropDown : Sahuagin
+In-Main : TagDropDown : Shapechanger
+In-Main : TagDropDown : Thri-Kreen
+In-Main : TagDropDown : Titan
+In-Main : TagDropDown : Troglodyte
+In-Main : TagDropDown : Yuan-Ti
+In-Main : TagDropDown : yugoloth
+Main : ConSaveBonus : CON
+Main : DexSaveBonus : DEX
+Main : StrSaveBonus : STR
+Main : SavingThrowBonuses : Saving Throw Bonuses
+Main : Speed : Speed
+Main : Burrow : Burrow
+Main : Climb : Climb
+Main : Fly : Fly
+Main : Swim : Swim
+Main : HoverCheckBox : Hover
+Custom Speed
+Speed : CustomCancelButton : Cancel
+Speed : SaveButton : Save
+Speed : HoverCheckBox : Hover
+Speed : SpeedLabel : Speed
+Speed : DescriptionLabel : Description
+Add Ability
+In-Ability : SaveButton : Save
+In-Ability : AbilityDescription : Description
+In-Ability : AbilityName : Ability Name
+In-Ability : SpellcastingLevelLabel : Spellcasting Level
+In-In-Ability : CantripLabel : Cantrips
+In-In-Ability : FirstLevelSpellSlotLabel : 1st Level Slots
+In-In-Ability : SecondLevelSpellSlotLabel : 2nd Level Slots
+In-In-Ability : ThirdLevelSpellSlotLabel : 3rd Level Slots
+In-In-Ability : FourthLevelSpellSlotLabel : 4th Level Slots
+In-In-Ability : FifthLevelSpellSlotLabel : 5th Level Slots
+In-In-Ability : SixthLevelSpellSlotLabel : 6th Level Slots
+In-In-Ability : SeventhLevelSpellSlotLabel : 7th Level Slots
+In-In-Ability : EighthLevelSpellSlotLabel : 8th Level Slots
+In-In-Ability : NinethLevelSpellSlotLabel : 9th Level Slots
+In-In-Ability : AtWillLabel : At Will
+In-Ability : SpellcastingSave : Save
+In-Ability : CastingAbilityLabel : Casting Ability
+In-In-Ability : SpellCastingAbility : Intelligence
+In-In-Ability : SpellCastingAbility : Wisdom
+In-In-Ability : SpellCastingAbility : Charisma
+In-In-Ability : SpellCastingAbility : Strength
+In-In-Ability : SpellCastingAbility : Dexterity
+In-In-Ability : SpellCastingAbility : Constitution
+In-Ability : InnateCheckbox : Innate Spellcasting
+In-Ability : SpellClassLabel : Type of Spells
+In-In-Ability : SpellClass : bard
+In-In-Ability : SpellClass : cleric
+In-In-Ability : SpellClass : druid
+In-In-Ability : SpellClass : paladin
+In-In-Ability : SpellClass : ranger
+In-In-Ability : SpellClass : sorcerer
+In-In-Ability : SpellClass : warlock
+In-In-Ability : SpellClass : wizard
+In-Ability : AddSpell : Add Spell
+In-Ability : SpellNameLabel : Spell Name
+In-Ability : SpellLevelLabel : Spell Level
+Add Action
+In-Action : label1 : /
+In-Action : Reach : Reach
+In-Action : AttackRange : Range
+In-In-Action : HitDamageType : Acid
+In-In-Action : HitDamageType : Bludgeoning
+In-In-Action : HitDamageType : Cold
+In-In-Action : HitDamageType : Fire
+In-In-Action : HitDamageType : Force
+In-In-Action : HitDamageType : Lightning
+In-In-Action : HitDamageType : Necrotic
+In-In-Action : HitDamageType : Piercing
+In-In-Action : HitDamageType : Poison
+In-In-Action : HitDamageType : Psychic
+In-In-Action : HitDamageType : Radiant
+In-In-Action : HitDamageType : Slashing
+In-In-Action : HitDamageType : Thunder
+In-In-Action : HitDiceType : d4
+In-In-Action : HitDiceType : d6
+In-In-Action : HitDiceType : d8
+In-In-Action : HitDiceType : d10
+In-In-Action : HitDiceType : d12
+In-In-Action : HitDiceType : d20
+In-Action : AttackName : Name
+In-Action : AttackTarget : Target:
+In-In-Action : AttackTypeDropdown : Melee Weapon Attack
+In-In-Action : AttackTypeDropdown : Ranged Weapon Attack
+In-In-Action : AttackTypeDropdown : Melee or Ranged Weapon Attack
+In-In-Action : AttackTypeDropdown : Melee Spell Attack
+In-In-Action : AttackTypeDropdown : Ranged Spell Attack
+In-In-Action : AttackTypeDropdown : Melee or Ranged Spell Attack
+In-Action : AttackType : Type
+In-Action : AttackHitEffect : On Hit:
+In-Action : AttackToHitBonus : Bonus
+In-Action : label8 : +
+In-Action : AttackAbilityDescription : Description
+In-Action : ActionName : Action Name
+In-Action : DescriptionLabel : Description
+In-Action : ReactionNameLabel : Reaction Name
+Add Legendary
+Legendary : AbilityNameLabel : Ability Name
+Legendary : ListHelperLabel : Double Click to Remove
+Legendary : LoadTrait : Edit Ability
+Legendary : SaveTrait : Add Ability
+Legendary : NameLabel : Name
